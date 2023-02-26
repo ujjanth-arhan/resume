@@ -1,0 +1,1 @@
+HTML, CSS template of the resume developed to conform to A4 size page when printed.
